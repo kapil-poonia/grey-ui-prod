@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <!-- Background circle -->
+  <circle cx="150" cy="150" r="140" fill="#f5f5f5" stroke="#e0e0e0" stroke-width="5"/>
+  
+  <!-- Letter G -->
+  <path d="M100 120 C70 120, 70 180, 100 180 L130 180 L130 155 L115 155 L115 145 L140 145 L140 190 L95 190 C55 190, 55 110, 95 110 L140 110 L140 120 Z" 
+        fill="#FF7F00" stroke="none"/>
+  
+  <!-- Letter D -->
+  <path d="M160 110 L200 110 C240 110, 240 190, 200 190 L160 190 Z M170 120 L170 180 L195 180 C225 180, 225 120, 195 120 Z" 
+        fill="#FF7F00" stroke="none"/>
+  
+  <!-- Diagnostic lines -->
+  <line x1="110" y1="210" x2="190" y2="210" stroke="#808080" stroke-width="6" stroke-linecap="round"/>
+  <line x1="120" y1="225" x2="180" y2="225" stroke="#808080" stroke-width="6" stroke-linecap="round"/>
+  
+  <!-- Pulse line -->
+  <path d="M90 80 L110 80 L120 60 L130 100 L140 70 L150 80 L170 80" 
+        fill="none" stroke="#FF7F00" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Cross symbol -->
+  <circle cx="210" cy="80" r="15" fill="#FF7F00"/>
+  <line x1="210" y1="73" x2="210" y2="87" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  <line x1="203" y1="80" x2="217" y2="80" stroke="white" stroke-width="4" stroke-linecap="round"/>
+</svg>
